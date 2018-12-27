@@ -1,0 +1,1 @@
+Recently I am reviewing data structure and algorithm, I found Lucene code base  [https://github.com/apache/lucene-solr ](https://github.com/apache/lucene-solr) is really a treasure, you can find many data structure and algorithm implementation from simple to hander ones, it deserves to learn the source code.
